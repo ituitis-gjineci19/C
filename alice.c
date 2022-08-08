@@ -111,6 +111,7 @@ int main(int argc, char** argv){
     free(sentence);
     fclose(book);
     fclose(instructions);
+	
 
     return 0;
 }
