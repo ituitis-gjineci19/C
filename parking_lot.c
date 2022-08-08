@@ -8,7 +8,7 @@ Write a C program that will get the size of the parking area(matrix), the number
 of locations occupied by the cars.
 You are required to calculate the distance between two locations using Manhattan distance.
 Return the empty slot which has the largest distance to all cars.
-If there are two locations that can potentially be the best slots your program should return the one with the smaller X value.
+If there are two locations that can potentially be the best slots your program should return the one with the smaller X value. 
 If they both have the same X value, then your program should return the one with the smaller Y value
 */
 
